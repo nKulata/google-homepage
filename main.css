@@ -1,0 +1,29 @@
+header {
+    padding: 15px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+
+.header-left {
+    float: left;
+}
+
+.header-right {
+    float: right;
+}
+
+.footer-right {
+    float: right;
+}
+
+.footer-left {
+    float: left;
+}
+
+.logo {
+    size: 100px;
+}
